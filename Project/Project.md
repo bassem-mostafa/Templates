@@ -16,3 +16,4 @@ Provide a project file structure/hierarchy template
 
 ### [Documents](Documents.md)
 
+[Assets vs Resources](https://www.quora.com/What-is-the-difference-between-asset-and-resource)
